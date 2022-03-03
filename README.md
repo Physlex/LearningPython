@@ -1,7 +1,1 @@
-##Notice  
-
-#Goal:
-    - To learn the basics of framework-light python.  
-    - To learn why to use this over cpp given certain issues.  
-    - To learn Django for making CRUD applications for this summer.  
-    - To learn some DScience concepts, as python is really connected to it.
+##Notice  #Goal:    - To learn the basics of framework-light python.      - To learn why to use this over cpp given certain issues.      - To learn Django for making CRUD applications for this summer.      - To learn some DScience concepts, as python is really connected to it.#NOTICE      -This project is officially done. I am now moving into object oriented, executable python and django.      -To procede with this, I will be leaving this repo and moving to a more freeing one.    -The goal of the next is to develop good coding style, proper project structure      (for a novice) and learn Django / webDevelopment. (The webdev will take a while)
